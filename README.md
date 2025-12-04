@@ -1,6 +1,19 @@
-## 🎬 CineSense – AI-Powered Movie Recommender System
-- An intelligent movie recommendation system built using Python, Pandas, Scikit-Learn, and NLP techniques.
-- CineSense analyzes movie metadata (genres, keywords, cast, crew, and overview) and recommends similar movies using Cosine Similarity.
+<p align="center">
+  <img src="https://img.shields.io/badge/CineSense-AI%20Powered%20Movie%20Recommender-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<h1 align="center">🎬🍿 CineSense – AI-Powered Movie Recommender System</h1>
+
+<p align="center">
+  <b>An intelligent content-based movie recommendation system using NLP & Machine Learning</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML-Scikit--Learn-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Cosine%20Similarity-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-Pandas-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
+</p>
 
 # 🚀 Project Overview
 Modern OTT platforms rely on AI-powered recommendation engines to keep users engaged, CineSense AI replicates this logic using content similarity.
