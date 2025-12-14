@@ -14,6 +14,17 @@
   <img src="https://img.shields.io/badge/Data-Pandas-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
 </p>
+<!-- INTERNSHIP / PROGRAM BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Internship-CODEC Technologies%20AL/ML%20Internship-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Type%20AI%20Application-blue?style=for-the-badge" />
+</p>
+
+<!-- OPTIONAL LIVE DEMO BADGE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Live%20Demo-Available-success?style=for-the-badge&logo=streamlit" />
+</p>
+
 
 # 🚀 Project Overview
 Modern OTT platforms rely on AI-powered recommendation engines to keep users engaged, CineSense AI replicates this logic using content similarity.
