@@ -170,7 +170,11 @@ File	Description :
 - This project lays a strong foundation for more advanced recommendation engines and can be expanded with deep learning, hybrid methods, and full-stack deployment to create a production-grade system.
 
 # 👨‍💻 Author
-
 # Ayush
-- 🔗 GitHub: https://github.com/ayush13-0
-- 🔗 LinkedIn: https://linkedin.com/in/ayush130
+Aspiring Data Scientist & Analyst
+- 📫 Email: bhanuseenu914@gmail.com
+- 🌐 GitHub: https://github.com/ayush13-0
+- ℹ️ LinkedIn: www.linkedin.com/in/ayush130
+
+# 🛡️ License
+- This project is licensed under the MIT License.
